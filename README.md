@@ -1,4 +1,3 @@
-# MHC_Campus_Map
 # MHC Campus Map
 
 This is an Android app that serves as an alternative campus map for Mount Holyoke College. It provides users with an interactive map interface and essential information about various locations on campus. The app aims to enhance accessibility, accuracy, and convenience for students, faculty, and visitors.
