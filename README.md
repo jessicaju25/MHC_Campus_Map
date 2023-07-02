@@ -39,5 +39,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Special thanks to the Mount Holyoke College community for their support and feedback.
-
-Feel free to customize the content according to your app's specific details and include relevant information, such as installation instructions, dependencies, and additional features.
