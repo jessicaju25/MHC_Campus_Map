@@ -18,7 +18,7 @@ This is an Android app that serves as an alternative campus map for Mount Holyok
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+<img width="817" alt="map app" src="https://github.com/jessicaju25/MHC_Campus_Map/assets/116128813/5b1cbe8e-117b-4f16-b117-a933d1d926d9">
 
 ## Getting Started
 
